@@ -34,7 +34,7 @@ In these exercises, students will be looking to answer such questions as:
 - What is the average rating per genre?
 - How many different actors are in a movie?
 
-The IMDB dataset provided is created from data scraped from the [Internet Movie Database website](https://www.imdb.com. The dataset describes top ranking movies, including: title, data, duration, content rating, headlining actors, and ranking.
+The IMDB dataset provided is created from data scraped from the [Internet Movie Database website](https://www.imdb.com). The dataset describes top ranking movies, including: title, data, duration, content rating, headlining actors, and ranking.
 
 
 ### Option 2: Best for Intermediate Programmers
